@@ -1,0 +1,7 @@
+# Python
+__pycache__/
+*.pyc
+
+# 输出/临时
+*.out
+*.log
